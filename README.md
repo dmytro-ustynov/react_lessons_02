@@ -37,3 +37,8 @@ Server started at 8080 port
 
 Now you can open your browser and go to [http://localhost:8080](http://localhost:8080) to see the result.
 
+![img.png](img.png)
+
+This simple server is dedicated to implement API to manage users. You can add, delete, update and get users from the database. 
+
+You should use this server as a backend for your frontend application and implement CRUD operations for users - add button to delete user, add button to edit user's fields, add button to view user details, add button to add new user.
